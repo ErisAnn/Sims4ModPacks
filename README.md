@@ -1,8 +1,18 @@
-# Sims 4 Mod Packs by erisann
+# Sims 4 Mods & Mod Packs by erisann
 
 Bugfix, Improvement, Gameplay, Realism, Autonomy, and Added Feature mods - as well as a LOT of genetics+fashion+buy+build content
 
 This is a personal repository for tracking creators, programs, and mod packs made public for others to use as a resource
+
+---
+
+## Mods
+
+### Pet Pregnancy Overhaul
+
+Original by n8smom8496 - https://modthesims.info/d/612921/dog-pregnancy-overhaul.html
+
+Expanded to include cats
 
 ---
 
